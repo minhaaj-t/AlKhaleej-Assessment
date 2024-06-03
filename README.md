@@ -1,16 +1,7 @@
 
 <div align="center">
 <video src="https://github.com/minhaaj-t/AlKhaleej-Assessment/assets/72432356/7dcbc39f-d945-4f13-b4c1-a824b88ba6ad" width=400/>
-<video src="https://github.com/minhaaj-t/AlKhaleej-Assessment/assets/72432356/9ed6687a-65be-4890-b5cb-b5191f7be4db" width=400/>
 </div>
-
-
-
-
-
-
-
-
 
 
 
@@ -36,6 +27,11 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+
+<div align="center">
+<video src="https://github.com/minhaaj-t/AlKhaleej-Assessment/assets/72432356/9ed6687a-65be-4890-b5cb-b5191f7be4db" width=400/>
+</div>
 
 ## Learning Laravel
 
