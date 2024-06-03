@@ -1,6 +1,8 @@
 
 <div align="center">
 <video src="https://github.com/minhaaj-t/AlKhaleej-Assessment/assets/72432356/7dcbc39f-d945-4f13-b4c1-a824b88ba6ad" width=400/>
+    http://127.0.0.1:8000/students/
+    Desktop View
 </div>
 
 
@@ -31,6 +33,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 <div align="center">
 <video src="https://github.com/minhaaj-t/AlKhaleej-Assessment/assets/72432356/9ed6687a-65be-4890-b5cb-b5191f7be4db" width=400/>
+    http://127.0.0.1:8000/students/
+    Mobile View
 </div>
 
 ## Learning Laravel
