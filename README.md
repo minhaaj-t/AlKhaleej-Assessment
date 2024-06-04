@@ -2,7 +2,7 @@
 <div align="center">
 <video src="https://github.com/minhaaj-t/AlKhaleej-Assessment/assets/72432356/7dcbc39f-d945-4f13-b4c1-a824b88ba6ad" width=400/>
     http://127.0.0.1:8000/students/
-    Desktop View
+    Desktop View 
 </div>
 http://127.0.0.1:8000/students/
 
